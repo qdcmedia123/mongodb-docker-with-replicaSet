@@ -43,6 +43,8 @@ config
 172.18.0.3:27017
 172.18.0.2:27017
 
+Use above address in compass and replication name is my-mongo-set connect each of the docker mongo 
+
 
 
 
